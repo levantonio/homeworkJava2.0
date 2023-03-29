@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-29T11:55:16.311072100Z</date>
+  <millis>1680090916311</millis>
+  <nanos>72100</nanos>
+  <sequence>0</sequence>
+  <logger>Homework2.Task1</logger>
+  <level>INFO</level>
+  <class>Homework2.Task1</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>CORRECT BUBLE SORTING</message>
+</record>
+</log>
